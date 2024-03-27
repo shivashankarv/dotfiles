@@ -1,0 +1,9 @@
+alias ..='cd ..'
+alias l='ls'
+alias reshell="source $HOME/.zshrc"
+alias shelledit="nano $HOME/.zshrc"
+alias pico="nano"
+alias nano="nano --softwrap"
+alias cat="bat"
+alias diff="diff-so-fancy"
+alias find="fd"
